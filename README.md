@@ -1,20 +1,30 @@
 <h1 align="center">
-   Hi there, I'm Maulana Risqi 👋
+   Hi 👋, I'm Maulana Risqi 
 </h1>
 
-#### Skills
-  - Backend Development
-  - DevOps
-  - Golang
-  - Go GRPC 
-  - Microservices
-  - Kubernertes
-  - CI/CD
-  - Jenkins
-  - Docker
-  - MongoDB 
-  - PostgreSQL 
+<h3 align="center">
+   Back End & DevOps Engineer 
+</h3>
 
+<br>
+
+### Skills
+Backend Development |&nbsp;
+DevOps |&nbsp;
+Golang |&nbsp;
+Go GRPC |&nbsp;
+Microservices |&nbsp;
+Kubernertes |&nbsp;
+CI/CD\
+Jenkins |&nbsp;
+Docker |&nbsp;
+MongoDB |&nbsp;
+PostgreSQL |&nbsp;
+
+<br>
+<h4 align="center">Contact me</h4>
+<p align="center">
+<a href="https://www.linkedin.com/in/maurisqqq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <!--
 **maurisqqq/maurisqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
