@@ -1,4 +1,17 @@
-## Hi there 👋
+## `center` Hi there, I'm Maulana Risqi 👋
+
+#### Skills
+  - Backend Development
+  - DevOps
+  - Golang
+  - Go GRPC 
+  - Microservices
+  - Kubernertes
+  - CI/CD
+  - Jenkins
+  - Docker
+  - MongoDB 
+  - PostgreSQL 
 
 <!--
 **maurisqqq/maurisqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
