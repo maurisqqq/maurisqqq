@@ -1,4 +1,6 @@
-## `center` Hi there, I'm Maulana Risqi 👋
+<p align="center">
+## Hi there, I'm Maulana Risqi 👋
+</p>
 
 #### Skills
   - Backend Development
