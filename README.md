@@ -1,6 +1,6 @@
-<p align="center">
-## Hi there, I'm Maulana Risqi 👋
-</p>
+<h1 align="center">
+   Hi there, I'm Maulana Risqi 👋
+</h1>
 
 #### Skills
   - Backend Development
