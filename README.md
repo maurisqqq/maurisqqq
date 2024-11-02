@@ -6,7 +6,7 @@
    Software Engineer 
 </h3>
 
-#### Checkout my portfolio <a href="https://innate-sort-77b.notion.site/Sup-I-m-Maulana-Risqi-130a895b960f80b6b72aeffdcb9a7a0c" target="_blank">here!</a> 😄
+#### Checkout my portfolio <a href="https://maulana-projects.notion.site/Sup-I-m-Maulana-Risqi-130a895b960f80b6b72aeffdcb9a7a0c">here!</a> 😄
 
 ### Skills
 Backend Development |&nbsp;
