@@ -15,7 +15,7 @@ Golang |&nbsp;
 GRPC |&nbsp;
 Microservices |&nbsp;
 Kafka |&nbsp;
-Kubernertes \ 
+Kubernertes\ 
 CI/CD |&nbsp;
 Jenkins |&nbsp;
 Docker |&nbsp;
