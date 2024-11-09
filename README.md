@@ -14,8 +14,9 @@ DevOps |&nbsp;
 Golang |&nbsp;
 GRPC |&nbsp;
 Microservices |&nbsp;
-Kubernertes |&nbsp;
-CI/CD\
+Kafka |&nbsp;
+Kubernertes \ 
+CI/CD |&nbsp;
 Jenkins |&nbsp;
 Docker |&nbsp;
 MongoDB |&nbsp;
