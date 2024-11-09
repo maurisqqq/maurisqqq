@@ -12,7 +12,7 @@
 Backend Development |&nbsp;
 DevOps |&nbsp;
 Golang |&nbsp;
-Go GRPC |&nbsp;
+GRPC |&nbsp;
 Microservices |&nbsp;
 Kubernertes |&nbsp;
 CI/CD\
